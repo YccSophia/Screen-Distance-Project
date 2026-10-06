@@ -62,5 +62,3 @@ A frequency of 40 kHz can describe modulation or pulse repetition, but it is not
 
 A hardware integration could convert sensor readings to centimeters and pass them to `classify(distance_cm)`.
 
-
-
